@@ -9,6 +9,6 @@ Based on these variables, a business organization can choose whether to market a
 <br>
 File Description: <br>
 - Code.ipynb - Contains code for Data analysis, visualization, pre-processing, model training and evaluation
-- Report - Report file of the project <br>
+- Report.pdf - Report file of the project <br>
 
 Last Commit: Uploaded Report and updated README
