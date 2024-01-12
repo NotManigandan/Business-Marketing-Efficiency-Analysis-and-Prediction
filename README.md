@@ -8,7 +8,7 @@ This project aims to utilize machine learning algorithms to develop predictive m
 Based on these variables, a business organization can choose whether to market a product to a person and have a suitable trade-off between the money spent on marketing and profits. This is also useful to reach customers with the products they want, improving customer experience. <br>
 <br>
 File Description: <br>
-- Code.ipynb - Contains code for Data analysis, pre-processing, model training and evaluation
+- Code.ipynb - Contains code for Data analysis, visualization, pre-processing, model training and evaluation
 - Report - Report file of the project <br>
 
 Last Commit: Updated README
